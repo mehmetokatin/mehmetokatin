@@ -37,5 +37,5 @@ Mağazanın menüsünü, kimliğini ve sipariş bilgilerini sunan animasyonlu, m
 
 ## 📫 İletişim
 
-- LinkedIn: linkedin.com/in/mehmet-okatın-4905612b0
+-[linkedin.com/in/mehmet-okatın-4905612b0](https://www.linkedin.com/in/mehmet-okatın-4905612b0)
 - OptiBean Instagram: [@optibean.ice](https://www.instagram.com/optibean.ice/)
