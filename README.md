@@ -1,41 +1,47 @@
-# Merhaba, ben Mehmet 👋
+# Hi, I'm Mehmet 👋
 
-Yeditepe Üniversitesi **Yönetim Bilişim Sistemleri** 3. sınıf öğrencisiyim. Aynı zamanda İstanbul Çekmeköy'deki **OptiBean** dondurma mağazasının sahibiyim.
+Third-year **Management Information Systems** student at Yeditepe University and founder of **OptiBean**, an ice cream shop in Istanbul.
 
-Yazılımı, kendi işletmemin gerçek problemlerini çözerek öğreniyorum: mağazamın web sitesini ve her gün kasada kullandığım yönetim uygulamasını geliştirdim.
+I build products by starting from real business problems: I talk to users, define requirements and ship the solution with AI-assisted development.
 
-- 🎯 Şu an yazılım alanında **staj** arıyorum
-- 🐍 Python'u temelden çalışıyorum (*How to Think Like a Computer Scientist*)
-- 📊 İlgi alanlarım: işletme yazılımları, veri ve raporlama, web ve mobil geliştirme
+- 🎯 Looking for a **product / business analyst internship** for Summer 2027
+- 📜 Google Project Management · Google AI Essentials · Google UX Design (in progress)
+- 📊 Interested in product management, UX and data-driven decisions
 
-## 🚀 Projelerim
+## 🚀 Projects
 
-### [OptiBean Yönetim Uygulaması](https://github.com/mehmetokatin/optibean)
-Mağazamda her gün kullandığım mobil işletme yönetim sistemi. Kağıt deftere yazılan gün sonu toplamlarının yerine, her satışı tek tek kaydedip raporlar üretiyor.
-- İki dokunuşla satış (kasa ekranı), nakit / kart / Trendyol ayrımı
-- Ciro, saatlik yoğunluk, en çok satan lezzetler ve net kâr raporları
-- Kutu bazlı stok takibi ve gider yönetimi
+### [MeoT Prep](https://meot.com.tr) — AI-powered math practice app
+An iOS app for tutors and their YKS/SAT students. Every question is a template whose numbers change on each attempt, so students learn the method instead of memorizing answers.
+- Claude API turns a photo of a question into a template with realistic wrong options
+- Step-level error diagnosis and a mistake notebook that retries each miss with new numbers
+- Homework, timed mock exams, leaderboards and per-topic analytics
+- Parental consent flow (KVKK), Row Level Security, automated tests in CI
+
+`React Native` `Expo` `TypeScript` `Supabase` `Claude API` · *In App Store review*
+
+### [OptiBean Management App](https://github.com/mehmetokatin/optibean)
+The mobile system I use to run my shop: sales, stock and expenses in one place.
+- 10-table PostgreSQL schema for sales, box-based inventory, expenses and profit
+- Revenue, hourly traffic and net profit reports for menu and pricing decisions
+- Rebuilt in October 2026 after the first version fell out of daily use
 
 `React Native` `Expo` `TypeScript` `Supabase (PostgreSQL)`
 
-### [OptiBean Web Sitesi](https://github.com/mehmetokatin/optibean-site) · [Canlı site](https://mehmetokatin.github.io/optibean-site/)
-Mağazanın menüsünü, kimliğini ve sipariş bilgilerini sunan animasyonlu, mobil uyumlu web sitesi.
-- 30'u aşkın lezzet, kategori filtresi, `localStorage` ile seçim hafızası
-- 20'den fazla CSS animasyonu, GitHub Pages ile yayında
+### [OptiBean Website](https://github.com/mehmetokatin/optibean-site) · [optibean.com.tr](https://optibean.com.tr)
+Animated, mobile-responsive site with 31 flavors, category filters, an event quote-request flow and a logo preview for the ice cream caravan.
 
 `HTML` `CSS` `JavaScript` `GitHub Pages`
 
-## 🛠️ Kullandığım teknolojiler
+## 🛠️ Tools
 
-| Alan | Teknolojiler |
+| Area | Tools |
 |---|---|
-| Diller | TypeScript, JavaScript, Python (öğreniyorum), Java (ders), SQL |
-| Mobil | React Native, Expo |
-| Web | HTML, CSS |
-| Veritabanı | PostgreSQL (Supabase) |
-| Araçlar | Git, GitHub, VS Code, yapay zekâ destekli geliştirme (Claude) |
+| Product & analysis | Requirements gathering, system analysis, project planning |
+| Languages | TypeScript, JavaScript, SQL, Python (basic), Java (basic) |
+| Mobile & web | React Native, Expo, HTML, CSS |
+| Backend | PostgreSQL, Supabase |
+| Tools | Git, GitHub Actions, Sentry, Claude API |
 
-## 📫 İletişim
-
--[linkedin.com/in/mehmet-okatın-4905612b0](https://www.linkedin.com/in/mehmet-okatın-4905612b0)
-- OptiBean Instagram: [@optibean.ice](https://www.instagram.com/optibean.ice/)
+## 📫 Contact
+- [LinkedIn](https://linkedin.com/in/mehmetokatin) · mehmetokatinn@gmail.com
+- OptiBean on Instagram: [@optibean.ice](https://www.instagram.com/optibean.ice/)
